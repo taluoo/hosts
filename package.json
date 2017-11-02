@@ -22,6 +22,7 @@
   "dependencies": {
     "@taluoo/mongoose-helper": "^1.0.0",
     "iconv-lite": "^0.4.19",
+    "puppeteer": "^0.12.0",
     "request": "^2.83.0",
     "xml2js": "^0.4.19"
   }
