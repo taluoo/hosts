@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/taluoo/hosts#readme",
   "dependencies": {
-    "@taluoo/mongoose-helper": "^1.0.0"
+    "@taluoo/mongoose-helper": "^1.0.0",
+    "xml2js": "^0.4.19"
   }
 }
