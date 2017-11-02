@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/taluoo/hosts/issues"
   },
-  "homepage": "https://github.com/taluoo/hosts#readme"
+  "homepage": "https://github.com/taluoo/hosts#readme",
+  "dependencies": {
+    "@taluoo/mongoose-helper": "^1.0.0"
+  }
 }
